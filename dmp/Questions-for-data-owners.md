@@ -6,6 +6,7 @@
 * Do you need an embargo on the data before publication?
 * Are you planning to deposit your data in public repository? Which one(s)?
 * Expected volume of the data?
-* Expected "shape"/"schema" of data?
+* Expected "shape"/"schema" of data? Datatypes etc
+* How often will it be updated?
 * License?
 

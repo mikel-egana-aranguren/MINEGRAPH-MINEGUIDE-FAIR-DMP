@@ -17,10 +17,10 @@
     <node id="n0">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="405.81440215288717" width="364.0" x="354.9248707624885" y="283.0362116991646"/>
+          <y:Geometry height="405.81440215288717" width="249.1899131303855" x="469.73495763210303" y="283.0362116991646"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#C0C0C0" raised="false" type="dashed" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="180.0" y="200.90720107644358">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="122.59495656519277" y="200.90720107644358">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -183,22 +183,6 @@
     </node>
     <node id="n10">
       <data key="d6">
-        <y:GenericNode configuration="com.yworks.flowchart.dataBase">
-          <y:Geometry height="70.52661263261132" width="89.0" x="605.0273739206842" y="218.99927913340517"/>
-          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="86.3359375" x="1.33203125" y="26.27893131630566">CLIN-IK-LINKS<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n11">
-      <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="58.50005340576172" x="1021.5616718006452" y="458.0690897409669"/>
           <y:Fill color="#FFCC00" transparent="false"/>
@@ -214,7 +198,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n12">
+    <node id="n11">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="101.0" x="1021.5616718006452" y="535.2875904734566"/>
@@ -231,7 +215,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n13">
+    <node id="n12">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="67.49800109863281" x="1021.5616718006452" y="573.8968408397014"/>
@@ -248,7 +232,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n14">
+    <node id="n13">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="13.0" width="67.49800109863281" x="1223.3674788160515" y="283.0362116991646"/>
@@ -265,7 +249,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n15">
+    <node id="n14">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="112.0" x="1021.5616718006452" y="496.67834010721174"/>
@@ -282,17 +266,17 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n16">
+    <node id="n15">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="13.0" width="101.0" x="368.73495763210303" y="290.0724233983292"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle hasColor="false" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="9" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="14.4765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.2275390625" x="-3.11376953125" y="-0.73828125">Shared project storage<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="9" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="14.4765625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.2275390625" x="105.0" y="-0.73828125">Shared project storage<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+              <y:SmartNodeLabelModelParameter labelRatioX="-0.5" labelRatioY="0.0" nodeRatioX="0.5" nodeRatioY="0.0" offsetX="4.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
             </y:ModelParameter>
           </y:NodeLabel>
           <y:Shape type="rectangle"/>
@@ -358,16 +342,6 @@
       </data>
     </edge>
     <edge id="e5" source="n5" target="n3">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e6" source="n10" target="n3">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
